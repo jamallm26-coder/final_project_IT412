@@ -18,4 +18,3 @@ This project processes customer data from a raw text file and loads it into:
 
 ## How to Run
 Run the main program:
-
